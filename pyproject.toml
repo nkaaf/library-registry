@@ -16,7 +16,7 @@ pytest = "^6.2.5"
 invoke = "^1.5.0"
 black = "^21.11b1"
 flake8 = "^4.0.1"
-pep8-naming = "^0.12.1"
+pep8-naming = "^0.13.0"
 yamllint = "^1.26.3"
 
 [build-system]
